@@ -13,7 +13,7 @@ html, body {
 .hero-section {
   width: 100vw;
   min-height: 100vh;
-  background-image: url('/img/ingredients-near-pizza_23-2147772081.jpg');
+  background-image: url('/projectOrder/img/ingredients-near-pizza_23-2147772081.jpg');
   background-size: cover;
   background-position: top center;
   background-attachment: fixed;
